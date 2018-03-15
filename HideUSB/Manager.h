@@ -1,11 +1,5 @@
 #pragma once
-
-
 #include "Standard.h"
-
-
-
-
 
 //모든걸 담당
 class Manager
