@@ -1,0 +1,6 @@
+# : comments
+
+# ignore VC Project fukes
+*.db
+.vs/
+x64/
