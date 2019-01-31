@@ -1,8 +1,6 @@
 #pragma once
 #include "Standard.h"
 
-
-
 class Sector
 {
 
